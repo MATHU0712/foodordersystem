@@ -271,7 +271,7 @@ session_start();
                             </ul>
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
-                                    <h5>Address</h5>
+                                    <h5>location Address</h5>
                                     <p> Stanly road jaffna</p>
                                     <h5>Phone: 0756787908</a></h5> </div>
                                 <div class="col-xs-12 col-sm-5 additional-info color-gray">
@@ -283,7 +283,7 @@ session_start();
           
             </div>
         </footer>
-    
+
     
 
     <script src="js/jquery.min.js"></script>
